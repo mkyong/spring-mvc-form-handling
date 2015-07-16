@@ -1,6 +1,6 @@
 Spring MVC Form Handling Example
 ===============================
-Template for a Spring 4 MVC Form Handling example. A complete CRUD example with HTML form, using Spring validator and Bootstrap for CSS styling.
+Template for a Spring 4 MVC Form Handling example. A complete Spring MVC CRUD example with HTML form, using Spring validator and Bootstrap for CSS styling.
 
 ###1. Technologies used
 * Maven 3.0
